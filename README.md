@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Visitor-->
-Glad To See You Here ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad To See You Here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${aamzahid}.${53381657})
 
 <!-- Github readme stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamzahid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
