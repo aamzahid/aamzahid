@@ -1,4 +1,6 @@
-### Hi there, I'am Abdullah 👋
+### Hi there, I'am Abdullah 👋 
+![GitHub followers](https://img.shields.io/github/followers/aamzahid?style=social)
+![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAAMZahid)
 
 <!--
 **aamzahid/aamzahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +27,6 @@ Glad To See You Here ![visitors](https://visitor-badge.glitch.me/badge?page_id=$
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+
+<!-- Skills -->
+![](https://img.shields.io/badge/<OS>-<Winddows10>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
