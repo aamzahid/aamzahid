@@ -4,7 +4,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAAMZahid)](https://www.twitter.com/AAMZAhid/)
 [![Linkedin Badge](https://img.shields.io/badge/-Abdullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamzahid)](https://www.linkedin.com/in/aamzahid) 
-[![CodePen Badge](https://img.shields.io/badge/CodePen?style=flat&logo=codepen&logoColor=white&color=000000)](https://codepen.io/aamzahid)
+
 
 <!--
 **aamzahid/aamzahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
