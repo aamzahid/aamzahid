@@ -66,7 +66,7 @@ No Activity tracked this Week
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/aamzahid)
 
 ## :email: Contact me
-[Gmail Badge](https://img.shields.io/badge/-aamzahidt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aamzahidt@gmail.com)](mailto:aamzahidt@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-aamzahidt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aamzahidt@gmail.com)](mailto:aamzahidt@gmail.com)
 
 
 
