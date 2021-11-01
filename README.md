@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!-- Language -->
 <a href="https://github.com/aamzahid">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamzahid&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamzahid&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=ffffff&bg_color=ffffff" />
 </a>
 <br>
 <!-- Github readme stats -->
