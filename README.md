@@ -1,9 +1,9 @@
 ### Hi there, I'am Abdullah 👋 
 ![GitHub followers](https://img.shields.io/github/followers/aamzahid?style=social)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${aamzahid}.${53381657})
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAAMZahid)](https://www.twitter.com/AAMZAhid/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aamzahid/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abdullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamzahid)](https://www.linkedin.com/in/aamzahid) 
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/aamzahid)
 
 <!--
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- Visitor-->
-Glad To See You Here ![visitors](https://visitor-badge.glitch.me/badge?page_id=${aamzahid}.${53381657})
+Glad To See You Here 
 
 <!-- Github readme stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamzahid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -64,6 +64,9 @@ No Activity tracked this Week
 [![Fiverr](https://img.shields.io/static/v1?style=for-the-badge&message=Fiverr&color=222222&logo=Fiverr&logoColor=1DBF73&label=)](https://www.fiverr.com/atechsol?up_rollout=true)
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~010ba196cfbc38ba11)
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://www.freelancer.com/u/aamzahid)
+
+## :email: Contact me
+[Gmail Badge](https://img.shields.io/badge/-aamzahidt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aamzahidt@gmail.com)](mailto:aamzahidt@gmail.com)
 
 
 
