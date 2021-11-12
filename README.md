@@ -22,9 +22,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- Language -->
-<a href="https://github.com/aamzahid">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamzahid&hide=&title_color=4F94EF&text_color=080C09&icon_color=ffffff&bg_color=E6EFE9" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamzahid&layout=compact)](https://github.com/aamzahid/github-readme-stats)
 <br>
 <!-- Github readme stats -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aamzahid&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
