@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <br>
 <!-- Github readme stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api?username=aamzahid&show_icons=true&theme=transparent)
+[!Top Langs](https://github-readme-stats.vercel.app/api?username=aamzahid&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
 ```text
