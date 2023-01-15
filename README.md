@@ -21,12 +21,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- Language -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aamzahid&layout=compact)](https://github.com/aamzahid/github-readme-stats)
+
 
 <br>
 <!-- Github readme stats -->
-[!Top Langs](https://github-readme-stats.vercel.app/api?username=aamzahid&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=aamzahid&show_icons=true&theme=transparent)
 
 <!--START_SECTION:waka-->
 ```text
