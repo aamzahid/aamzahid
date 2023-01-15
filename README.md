@@ -20,12 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
 <br>
-<!-- Github readme stats -->
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamzahid&show_icons=true&theme=transparent)
 
 <!--END_SECTION:waka-->
 ## 💼 Skills
