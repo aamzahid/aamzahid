@@ -1,6 +1,6 @@
 ### Hi there, I'am Abdullah 👋 
 ![GitHub followers](https://img.shields.io/github/followers/aamzahid?style=social)
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{aamzahid}/count.svg)
 
 [![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAAMZahid)](https://www.twitter.com/AAMZAhid/)
 [![Linkedin Badge](https://img.shields.io/badge/-Abdullah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aamzahid)](https://www.linkedin.com/in/aamzahid) 
